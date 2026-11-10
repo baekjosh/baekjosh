@@ -1,7 +1,5 @@
-<div align="center">
+<p align="center">
+  <img src="assets/henesys.svg" width="840" alt="Slimes bouncing on the Henesys hunting ground">
+</p>
 
-<img src="https://baek.io/gallery/artwork.svg" alt="An evolving generative artwork — a painting that paints itself" width="840">
-
-<img src="https://komarev.com/ghpvc/?username=baekjosh&style=flat-square&color=0e0e0e" alt="Profile visits">
-
-</div>
+<p align="center"><sub>the hunting ground is always open</sub></p>
