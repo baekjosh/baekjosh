@@ -215,259 +215,15 @@
   104.0328% { transform: translate(0.0px,0px) scale(-1,1); }
 }
 @keyframes t-slB {
-  0.0% { transform: translate(0.0px,0px) scale(1,1); }
-  3.6269% { transform: translate(0.0px,0px) scale(1,1); }
-  3.7463% { transform: translate(0.0px,0px) scale(1,0.62); }
-  3.9403% { transform: translate(5.0px,-10.9px) scale(1,1); }
-  4.2537% { transform: translate(10.0px,0px) scale(1,1); }
-  4.3731% { transform: translate(10.0px,0px) scale(1,0.62); }
-  4.403% { transform: translate(10.0px,0px) scale(1,1); }
-  4.6493% { transform: translate(15.5px,-10.9px) scale(1,1); }
-  5.0448% { transform: translate(21.0px,0px) scale(1,1); }
-  5.1642% { transform: translate(21.0px,0px) scale(1,0.62); }
-  5.194% { transform: translate(21.0px,0px) scale(1,1); }
-  5.403% { transform: translate(27.5px,-10.9px) scale(1,1); }
-  5.7612% { transform: translate(34.0px,0px) scale(1,1); }
-  5.9104% { transform: translate(34.0px,0px) scale(1,1); }
-  9.3881% { transform: translate(34.0px,0px) scale(1,1); }
-  9.5075% { transform: translate(34.0px,0px) scale(1,0.62); }
-  9.8134% { transform: translate(40.0px,-10.9px) scale(1,1); }
-  10.2388% { transform: translate(46.0px,0px) scale(1,1); }
-  10.3582% { transform: translate(46.0px,0px) scale(1,0.62); }
-  10.3881% { transform: translate(46.0px,0px) scale(1,1); }
-  10.694% { transform: translate(51.5px,-10.9px) scale(1,1); }
-  11.1493% { transform: translate(57.0px,0px) scale(1,1); }
-  11.2985% { transform: translate(57.0px,0px) scale(1,1); }
-  14.0448% { transform: translate(57.0px,0px) scale(1,1); }
-  14.1642% { transform: translate(57.0px,0px) scale(1,0.62); }
-  14.3582% { transform: translate(62.0px,-10.9px) scale(1,1); }
-  14.6716% { transform: translate(67.0px,0px) scale(1,1); }
-  14.791% { transform: translate(67.0px,0px) scale(1,0.62); }
-  14.8209% { transform: translate(67.0px,0px) scale(1,1); }
-  15.1493% { transform: translate(73.0px,-10.9px) scale(1,1); }
-  15.6269% { transform: translate(79.0px,0px) scale(1,1); }
-  15.7761% { transform: translate(79.0px,0px) scale(1,1); }
-  19.9701% { transform: translate(79.0px,0px) scale(1,1); }
-  20.0896% { transform: translate(79.0px,0px) scale(1,0.62); }
-  20.4478% { transform: translate(71.0px,-10.9px) scale(1,1); }
-  20.9254% { transform: translate(63.0px,0px) scale(1,1); }
-  21.0448% { transform: translate(63.0px,0px) scale(1,0.62); }
-  21.0746% { transform: translate(63.0px,0px) scale(1,1); }
-  21.2239% { transform: translate(53.5px,-10.9px) scale(1,1); }
-  21.5224% { transform: translate(44.0px,0px) scale(1,1); }
-  21.6418% { transform: translate(44.0px,0px) scale(1,0.62); }
-  21.6716% { transform: translate(44.0px,0px) scale(1,1); }
-  21.9104% { transform: translate(35.5px,-10.9px) scale(1,1); }
-  22.2985% { transform: translate(27.0px,0px) scale(1,1); }
-  22.4179% { transform: translate(27.0px,0px) scale(1,0.62); }
-  22.4478% { transform: translate(27.0px,0px) scale(1,1); }
-  22.7239% { transform: translate(17.0px,-10.9px) scale(1,1); }
-  23.1493% { transform: translate(7.0px,0px) scale(-1,1); }
-  23.1791% { transform: translate(7.0px,0px) scale(-1,1); }
-  23.2985% { transform: translate(7.0px,0px) scale(1,1); }
-  26.7761% { transform: translate(7.0px,0px) scale(-1,1); }
-  26.8955% { transform: translate(7.0px,0px) scale(-1,0.62); }
-  27.194% { transform: translate(15.5px,-10.9px) scale(-1,1); }
-  27.6119% { transform: translate(24.0px,0px) scale(-1,1); }
-  27.7313% { transform: translate(24.0px,0px) scale(-1,0.62); }
-  27.7612% { transform: translate(24.0px,0px) scale(-1,1); }
-  27.8806% { transform: translate(33.5px,-10.9px) scale(-1,1); }
-  28.1493% { transform: translate(43.0px,0px) scale(-1,1); }
-  28.2687% { transform: translate(43.0px,0px) scale(-1,0.62); }
-  28.2985% { transform: translate(43.0px,0px) scale(-1,1); }
-  28.6045% { transform: translate(50.0px,-10.9px) scale(-1,1); }
-  29.0597% { transform: translate(57.0px,0px) scale(-1,1); }
-  29.1791% { transform: translate(57.0px,0px) scale(-1,0.62); }
-  29.209% { transform: translate(57.0px,0px) scale(-1,1); }
-  29.4552% { transform: translate(66.5px,-10.9px) scale(-1,1); }
-  29.8507% { transform: translate(76.0px,0px) scale(-1,1); }
-  29.9701% { transform: translate(76.0px,0px) scale(-1,0.62); }
-  30.0% { transform: translate(76.0px,0px) scale(-1,1); }
-  30.1791% { transform: translate(85.5px,-10.9px) scale(-1,1); }
-  30.5075% { transform: translate(95.0px,0px) scale(1,1); }
-  30.5373% { transform: translate(95.0px,0px) scale(1,1); }
-  30.6567% { transform: translate(95.0px,0px) scale(-1,1); }
-  33.403% { transform: translate(95.0px,0px) scale(1,1); }
-  33.5224% { transform: translate(95.0px,0px) scale(1,0.62); }
-  33.7015% { transform: translate(86.0px,-10.9px) scale(1,1); }
-  34.0% { transform: translate(77.0px,0px) scale(1,1); }
-  34.1194% { transform: translate(77.0px,0px) scale(1,0.62); }
-  34.1493% { transform: translate(77.0px,0px) scale(1,1); }
-  34.2836% { transform: translate(71.0px,-10.9px) scale(1,1); }
-  34.5672% { transform: translate(65.0px,0px) scale(1,1); }
-  34.6866% { transform: translate(65.0px,0px) scale(1,0.62); }
-  34.7164% { transform: translate(65.0px,0px) scale(1,1); }
-  34.9478% { transform: translate(56.0px,-10.9px) scale(1,1); }
-  35.3284% { transform: translate(47.0px,0px) scale(-1,1); }
-  35.3582% { transform: translate(47.0px,0px) scale(-1,1); }
-  35.4776% { transform: translate(47.0px,0px) scale(1,1); }
-  38.9552% { transform: translate(47.0px,0px) scale(-1,1); }
-  39.0746% { transform: translate(47.0px,0px) scale(-1,0.62); }
-  39.2313% { transform: translate(38.0px,-10.9px) scale(-1,1); }
-  39.5075% { transform: translate(29.0px,0px) scale(-1,1); }
-  39.6269% { transform: translate(29.0px,0px) scale(-1,0.62); }
-  39.6567% { transform: translate(29.0px,0px) scale(-1,1); }
-  39.8433% { transform: translate(21.0px,-10.9px) scale(-1,1); }
-  40.1791% { transform: translate(13.0px,0px) scale(-1,1); }
-  40.2985% { transform: translate(13.0px,0px) scale(-1,0.62); }
-  40.3284% { transform: translate(13.0px,0px) scale(-1,1); }
-  40.5149% { transform: translate(5.0px,-10.9px) scale(-1,1); }
-  40.8507% { transform: translate(-3.0px,0px) scale(-1,1); }
-  40.9701% { transform: translate(-3.0px,0px) scale(-1,0.62); }
-  41.0% { transform: translate(-3.0px,0px) scale(-1,1); }
-  41.1567% { transform: translate(-11.5px,-10.9px) scale(-1,1); }
-  41.4627% { transform: translate(-20.0px,0px) scale(-1,1); }
-  41.5821% { transform: translate(-20.0px,0px) scale(-1,0.62); }
-  41.6119% { transform: translate(-20.0px,0px) scale(-1,1); }
-  41.8134% { transform: translate(-30.0px,-10.9px) scale(-1,1); }
-  42.1642% { transform: translate(-40.0px,0px) scale(-1,1); }
-  42.2836% { transform: translate(-40.0px,0px) scale(-1,0.62); }
-  42.3134% { transform: translate(-40.0px,0px) scale(-1,1); }
-  42.6269% { transform: translate(-49.0px,-10.9px) scale(-1,1); }
-  43.0896% { transform: translate(-58.0px,0px) scale(-1,1); }
-  43.2388% { transform: translate(-58.0px,0px) scale(-1,1); }
-  46.7164% { transform: translate(-58.0px,0px) scale(-1,1); }
-  46.8358% { transform: translate(-58.0px,0px) scale(-1,0.62); }
-  47.0075% { transform: translate(-49.5px,-10.9px) scale(-1,1); }
-  47.2985% { transform: translate(-41.0px,0px) scale(-1,1); }
-  47.4179% { transform: translate(-41.0px,0px) scale(-1,0.62); }
-  47.4478% { transform: translate(-41.0px,0px) scale(-1,1); }
-  47.7463% { transform: translate(-31.5px,-10.9px) scale(-1,1); }
-  48.194% { transform: translate(-22.0px,0px) scale(-1,1); }
-  48.3134% { transform: translate(-22.0px,0px) scale(-1,0.62); }
-  48.3433% { transform: translate(-22.0px,0px) scale(-1,1); }
-  48.6045% { transform: translate(-13.5px,-10.9px) scale(-1,1); }
-  49.0149% { transform: translate(-5.0px,0px) scale(-1,1); }
-  49.1343% { transform: translate(-5.0px,0px) scale(-1,0.62); }
-  49.1642% { transform: translate(-5.0px,0px) scale(-1,1); }
-  49.3209% { transform: translate(4.0px,-10.9px) scale(-1,1); }
-  49.6269% { transform: translate(13.0px,0px) scale(-1,1); }
-  49.7463% { transform: translate(13.0px,0px) scale(-1,0.62); }
-  49.7761% { transform: translate(13.0px,0px) scale(-1,1); }
-  49.8955% { transform: translate(24.0px,-10.9px) scale(-1,1); }
-  50.1642% { transform: translate(35.0px,0px) scale(-1,1); }
-  50.2836% { transform: translate(35.0px,0px) scale(-1,0.62); }
-  50.3134% { transform: translate(35.0px,0px) scale(-1,1); }
-  50.5448% { transform: translate(46.0px,-10.9px) scale(-1,1); }
-  50.9254% { transform: translate(57.0px,0px) scale(1,1); }
-  50.9552% { transform: translate(57.0px,0px) scale(1,1); }
-  51.0746% { transform: translate(57.0px,0px) scale(-1,1); }
-  61.791% { transform: translate(57.0px,0px) scale(1,1); }
-  61.9104% { transform: translate(57.0px,0px) scale(1,0.62); }
-  62.1493% { transform: translate(46.5px,-10.9px) scale(1,1); }
-  62.5075% { transform: translate(36.0px,0px) scale(1,1); }
-  62.6269% { transform: translate(36.0px,0px) scale(1,0.62); }
-  62.6567% { transform: translate(36.0px,0px) scale(1,1); }
-  62.8284% { transform: translate(27.0px,-10.9px) scale(1,1); }
-  63.1493% { transform: translate(18.0px,0px) scale(-1,1); }
-  63.1791% { transform: translate(18.0px,0px) scale(-1,1); }
-  63.2985% { transform: translate(18.0px,0px) scale(1,1); }
-  68.4627% { transform: translate(18.0px,0px) scale(-1,1); }
-  68.5821% { transform: translate(18.0px,0px) scale(-1,0.62); }
-  68.8433% { transform: translate(22.5px,-10.9px) scale(-1,1); }
-  69.2239% { transform: translate(27.0px,0px) scale(-1,1); }
-  69.3433% { transform: translate(27.0px,0px) scale(-1,0.62); }
-  69.3731% { transform: translate(27.0px,0px) scale(-1,1); }
-  69.5746% { transform: translate(32.0px,-10.9px) scale(-1,1); }
-  69.9254% { transform: translate(37.0px,0px) scale(-1,1); }
-  70.0448% { transform: translate(37.0px,0px) scale(-1,0.62); }
-  70.0746% { transform: translate(37.0px,0px) scale(-1,1); }
-  70.3358% { transform: translate(42.5px,-10.9px) scale(-1,1); }
-  70.7463% { transform: translate(48.0px,0px) scale(-1,1); }
-  70.8657% { transform: translate(48.0px,0px) scale(-1,0.62); }
-  70.8955% { transform: translate(48.0px,0px) scale(-1,1); }
-  71.209% { transform: translate(55.0px,-10.9px) scale(-1,1); }
-  71.6716% { transform: translate(62.0px,0px) scale(1,1); }
-  71.7015% { transform: translate(62.0px,0px) scale(1,1); }
-  71.8209% { transform: translate(62.0px,0px) scale(-1,1); }
-  76.0149% { transform: translate(62.0px,0px) scale(1,1); }
-  76.1343% { transform: translate(62.0px,0px) scale(1,0.62); }
-  76.403% { transform: translate(68.0px,-10.9px) scale(1,1); }
-  76.791% { transform: translate(74.0px,0px) scale(1,1); }
-  76.9104% { transform: translate(74.0px,0px) scale(1,0.62); }
-  76.9403% { transform: translate(74.0px,0px) scale(1,1); }
-  77.1418% { transform: translate(79.0px,-10.9px) scale(1,1); }
-  77.4925% { transform: translate(84.0px,0px) scale(1,1); }
-  77.6119% { transform: translate(84.0px,0px) scale(1,0.62); }
-  77.6418% { transform: translate(84.0px,0px) scale(1,1); }
-  77.7612% { transform: translate(89.5px,-10.9px) scale(1,1); }
-  78.0299% { transform: translate(95.0px,0px) scale(1,1); }
-  78.1493% { transform: translate(95.0px,0px) scale(1,0.62); }
-  78.1791% { transform: translate(95.0px,0px) scale(1,1); }
-  78.4179% { transform: translate(102.0px,-10.9px) scale(1,1); }
-  78.806% { transform: translate(109.0px,0px) scale(1,1); }
-  78.9552% { transform: translate(109.0px,0px) scale(1,1); }
-  81.7015% { transform: translate(109.0px,0px) scale(1,1); }
-  81.8209% { transform: translate(109.0px,0px) scale(1,0.62); }
-  82.0821% { transform: translate(104.5px,-10.9px) scale(1,1); }
-  82.4627% { transform: translate(100.0px,0px) scale(1,1); }
-  82.5821% { transform: translate(100.0px,0px) scale(1,0.62); }
-  82.6119% { transform: translate(100.0px,0px) scale(1,1); }
-  82.8209% { transform: translate(96.0px,-10.9px) scale(1,1); }
-  83.1791% { transform: translate(92.0px,0px) scale(1,1); }
-  83.2985% { transform: translate(92.0px,0px) scale(1,0.62); }
-  83.3284% { transform: translate(92.0px,0px) scale(1,1); }
-  83.5896% { transform: translate(87.0px,-10.9px) scale(1,1); }
-  84.0% { transform: translate(82.0px,0px) scale(1,1); }
-  84.1194% { transform: translate(82.0px,0px) scale(1,0.62); }
-  84.1493% { transform: translate(82.0px,0px) scale(1,1); }
-  84.3806% { transform: translate(75.0px,-10.9px) scale(1,1); }
-  84.7612% { transform: translate(68.0px,0px) scale(1,1); }
-  84.8806% { transform: translate(68.0px,0px) scale(1,0.62); }
-  84.9104% { transform: translate(68.0px,0px) scale(1,1); }
-  85.0448% { transform: translate(64.0px,-10.9px) scale(1,1); }
-  85.3284% { transform: translate(60.0px,0px) scale(1,1); }
-  85.4478% { transform: translate(60.0px,0px) scale(1,0.62); }
-  85.4776% { transform: translate(60.0px,0px) scale(1,1); }
-  85.8134% { transform: translate(54.0px,-10.9px) scale(1,1); }
-  86.2985% { transform: translate(48.0px,0px) scale(-1,1); }
-  86.3284% { transform: translate(48.0px,0px) scale(-1,1); }
-  86.4478% { transform: translate(48.0px,0px) scale(1,1); }
-  89.9254% { transform: translate(48.0px,0px) scale(-1,1); }
-  90.0448% { transform: translate(48.0px,0px) scale(-1,0.62); }
-  90.209% { transform: translate(56.5px,-10.9px) scale(-1,1); }
-  90.4925% { transform: translate(65.0px,0px) scale(-1,1); }
-  90.6119% { transform: translate(65.0px,0px) scale(-1,0.62); }
-  90.6418% { transform: translate(65.0px,0px) scale(-1,1); }
-  90.9254% { transform: translate(73.0px,-10.9px) scale(-1,1); }
-  91.3582% { transform: translate(81.0px,0px) scale(-1,1); }
-  91.4776% { transform: translate(81.0px,0px) scale(-1,0.62); }
-  91.5075% { transform: translate(81.0px,0px) scale(-1,1); }
-  91.6343% { transform: translate(88.0px,-10.9px) scale(-1,1); }
-  91.9104% { transform: translate(95.0px,0px) scale(-1,1); }
-  92.0299% { transform: translate(95.0px,0px) scale(-1,0.62); }
-  92.0597% { transform: translate(95.0px,0px) scale(-1,1); }
-  92.3582% { transform: translate(104.5px,-10.9px) scale(-1,1); }
-  92.806% { transform: translate(114.0px,0px) scale(1,1); }
-  92.8358% { transform: translate(114.0px,0px) scale(1,1); }
-  92.9552% { transform: translate(114.0px,0px) scale(-1,1); }
-  98.7761% { transform: translate(114.0px,0px) scale(1,1); }
-  98.8955% { transform: translate(114.0px,0px) scale(1,0.62); }
-  99.1119% { transform: translate(104.5px,-10.9px) scale(1,1); }
-  99.4478% { transform: translate(95.0px,0px) scale(1,1); }
-  99.5672% { transform: translate(95.0px,0px) scale(1,0.62); }
-  99.597% { transform: translate(95.0px,0px) scale(1,1); }
-  99.7836% { transform: translate(85.5px,-10.9px) scale(1,1); }
-  100.1194% { transform: translate(76.0px,0px) scale(1,1); }
-  100.2388% { transform: translate(76.0px,0px) scale(1,0.62); }
-  100.2687% { transform: translate(76.0px,0px) scale(1,1); }
-  100.4552% { transform: translate(66.5px,-10.9px) scale(1,1); }
-  100.791% { transform: translate(57.0px,0px) scale(1,1); }
-  100.9104% { transform: translate(57.0px,0px) scale(1,0.62); }
-  100.9403% { transform: translate(57.0px,0px) scale(1,1); }
-  101.1269% { transform: translate(47.5px,-10.9px) scale(1,1); }
-  101.4627% { transform: translate(38.0px,0px) scale(1,1); }
-  101.5821% { transform: translate(38.0px,0px) scale(1,0.62); }
-  101.6119% { transform: translate(38.0px,0px) scale(1,1); }
-  101.7985% { transform: translate(28.5px,-10.9px) scale(1,1); }
-  102.1343% { transform: translate(19.0px,0px) scale(1,1); }
-  102.2537% { transform: translate(19.0px,0px) scale(1,0.62); }
-  102.2836% { transform: translate(19.0px,0px) scale(1,1); }
-  102.4701% { transform: translate(9.5px,-10.9px) scale(1,1); }
-  102.806% { transform: translate(0.0px,0px) scale(-1,1); }
-  102.8358% { transform: translate(0.0px,0px) scale(-1,1); }
-  102.9552% { transform: translate(0.0px,0px) scale(1,1); }
-  105.0448% { transform: translate(0.0px,0px) scale(-1,1); }
+  0%, 26.5%, 100% { transform: translate(0,0) scale(1,1); }
+  28%, 28.75% { transform: translate(0,0) scale(1.13,.72); animation-timing-function: ease-out; }
+  31.25% { transform: translate(27px,-24px) scale(.96,1.04); animation-timing-function: ease-in; }
+  34% { transform: translate(54px,0) scale(1.1,.8); }
+  35.5%, 77% { transform: translate(54px,0) scale(1,1); }
+  78.5% { transform: translate(54px,0) scale(1.1,.76); animation-timing-function: ease-out; }
+  81% { transform: translate(27px,-18px) scale(.98,1.02); animation-timing-function: ease-in; }
+  83.5% { transform: translate(0,0) scale(1.08,.83); }
+  85% { transform: translate(0,0) scale(1,1); }
 }
 @keyframes t-slC {
   0.0% { transform: translate(0.0px,0px) scale(1,1); }
@@ -986,64 +742,34 @@
   106.1507% { transform: translate(0.0px,0px) scale(-1,1); }
 }
 @keyframes t-om {
-  0.0% { transform: translate(0.0px,0); }
-  5.5396% { transform: translate(0.0px,0) scale(1,1); }
-  6.0432% { transform: translate(0.0px,0) scale(1,0.78); }
-  6.6906% { transform: translate(1.0px,-29.5px) scale(1,1); }
-  7.8417% { transform: translate(2.0px,0); }
-  8.705% { transform: translate(2.0px,0) scale(1,1); }
-  10.2878% { transform: translate(2.0px,0) scale(1,1); }
-  10.7914% { transform: translate(2.0px,0) scale(1,0.78); }
-  11.4388% { transform: translate(1.0px,-29.5px) scale(1,1); }
-  12.5899% { transform: translate(0.0px,0); }
-  13.4532% { transform: translate(0.0px,0) scale(1,1); }
-  21.223% { transform: translate(0.0px,0) scale(1,1); }
-  21.7266% { transform: translate(0.0px,0) scale(1,0.78); }
-  22.3022% { transform: translate(1.0px,-29.5px) scale(1,1); }
-  23.3813% { transform: translate(2.0px,0); }
-  24.2446% { transform: translate(2.0px,0) scale(1,1); }
-  32.0144% { transform: translate(2.0px,0) scale(1,1); }
-  32.518% { transform: translate(2.0px,0) scale(1,0.78); }
-  33.2014% { transform: translate(1.0px,-29.5px) scale(1,1); }
-  34.3885% { transform: translate(0.0px,0); }
-  35.2518% { transform: translate(0.0px,0) scale(1,1); }
-  35.8273% { transform: translate(0.0px,0) scale(1,1); }
-  36.3309% { transform: translate(0.0px,0) scale(1,0.78); }
-  36.9065% { transform: translate(1.0px,-29.5px) scale(1,1); }
-  37.9856% { transform: translate(2.0px,0); }
-  38.8489% { transform: translate(2.0px,0) scale(1,1); }
-  40.5036% { transform: translate(2.0px,0) scale(1,1); }
-  41.0072% { transform: translate(2.0px,0) scale(1,0.78); }
-  41.6187% { transform: translate(1.0px,-29.5px) scale(1,1); }
-  42.7338% { transform: translate(0.0px,0); }
-  43.5971% { transform: translate(0.0px,0) scale(1,1); }
-  44.1727% { transform: translate(0.0px,0) scale(1,1); }
-  44.6763% { transform: translate(0.0px,0) scale(1,0.78); }
-  45.1799% { transform: translate(1.0px,-29.5px) scale(1,1); }
-  46.1871% { transform: translate(2.0px,0); }
-  47.0504% { transform: translate(2.0px,0) scale(1,1); }
-  54.8201% { transform: translate(2.0px,0) scale(1,1); }
-  55.3237% { transform: translate(2.0px,0) scale(1,0.78); }
-  55.7914% { transform: translate(1.0px,-29.5px) scale(1,1); }
-  56.7626% { transform: translate(0.0px,0); }
-  57.6259% { transform: translate(0.0px,0) scale(1,1); }
-  59.0647% { transform: translate(0.0px,0) scale(1,1); }
-  59.5683% { transform: translate(0.0px,0) scale(1,0.78); }
-  60.036% { transform: translate(1.0px,-29.5px) scale(1,1); }
-  61.0072% { transform: translate(2.0px,0); }
-  61.8705% { transform: translate(2.0px,0) scale(1,1); }
-  64.6043% { transform: translate(2.0px,0) scale(1,1); }
-  65.1079% { transform: translate(2.0px,0) scale(1,0.78); }
-  65.5396% { transform: translate(1.0px,-29.5px) scale(1,1); }
-  66.4748% { transform: translate(0.0px,0); }
-  67.3381% { transform: translate(0.0px,0) scale(1,1); }
-  72.9496% { transform: translate(0.0px,0) scale(1,1); }
-  73.4532% { transform: translate(0.0px,0) scale(1,0.78); }
-  73.9568% { transform: translate(1.0px,-29.5px) scale(1,1); }
-  74.964% { transform: translate(2.0px,0); }
-  75.8273% { transform: translate(2.0px,0) scale(1,1); }
-  87.1942% { transform: translate(2.0px,0); }
-  99.4245% { transform: translate(2.0px,0); }
+  0%, 97%, 100% { transform: translate(0,0) scale(-1,1); }
+  1.8% { transform: translate(0,0) scale(-1,.86); animation-timing-function: ease-out; }
+  4.2% { transform: translate(26px,-22px) scale(-1,1); animation-timing-function: ease-in; }
+  6.8% { transform: translate(52px,0) scale(-1,.92); }
+  8% { transform: translate(52px,0) scale(-1,1); }
+  9.8% { transform: translate(52px,0) scale(-1,.89); animation-timing-function: ease-out; }
+  12.2% { transform: translate(82px,-25px) scale(-1,1); animation-timing-function: ease-in; }
+  15% { transform: translate(112px,0) scale(-1,.91); }
+  16.2% { transform: translate(112px,0) scale(-1,1); }
+  17.8% { transform: translate(112px,0) scale(-1,.87); animation-timing-function: ease-out; }
+  20.2% { transform: translate(138px,-20px) scale(-1,1); animation-timing-function: ease-in; }
+  23% { transform: translate(164px,0) scale(-1,.92); }
+
+  24.5%, 42% { transform: translate(164px,0) scale(-1,1); animation-timing-function: step-end; }
+  43% { transform: translate(164px,0) scale(1,1); }
+
+  45% { transform: translate(164px,0) scale(1,.88); animation-timing-function: ease-out; }
+  47.6% { transform: translate(137px,-20px) scale(1,1); animation-timing-function: ease-in; }
+  50.3% { transform: translate(110px,0) scale(1,.92); }
+  51.5% { transform: translate(110px,0) scale(1,1); }
+  54.5% { transform: translate(110px,0) scale(1,.90); animation-timing-function: ease-out; }
+  57% { transform: translate(81px,-23px) scale(1,1); animation-timing-function: ease-in; }
+  59.8% { transform: translate(52px,0) scale(1,.92); }
+  61.2% { transform: translate(52px,0) scale(1,1); }
+  64% { transform: translate(52px,0) scale(1,.89); animation-timing-function: ease-out; }
+  66.4% { transform: translate(26px,-22px) scale(1,1); animation-timing-function: ease-in; }
+  69.2% { transform: translate(0,0) scale(1,.92); }
+  70.6%, 96% { transform: translate(0,0) scale(1,1); animation-timing-function: step-end; }
 }
 @keyframes t-om2 {
   0.0% { transform: translate(0.0px,0); }
@@ -1553,6 +1279,9 @@
 }
 @keyframes breathe { 0%,100% { transform: scaleY(1); } 45% { transform: scaleY(0.86); } 68% { transform: scaleY(1.04); } }
 .breathe { animation: breathe 1.3s ease-in-out infinite; }
+/* Share the clock so the lower slime springs while the orange mushroom rests on the open ledge. */
+.a-om, .a-slB { animation: 12s linear infinite; }
+.portal { opacity: .38; }
 @keyframes pf-glow { 0%,100% { opacity: .87; } 50% { opacity: 1; } }
 @keyframes pf-sh { 0%,100% { opacity: .18; } 50% { opacity: .45; } }
 @keyframes pf-mr { 0% { transform: translateY(-6px); opacity: 0; } 10% { opacity: 1; } 80% { opacity: .55; } 100% { transform: translateY(-104px); opacity: 0; } }
@@ -1582,10 +1311,10 @@
  <image class="canopy" href="data:image/png;base64,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" x="650" y="0" width="180" height="56" mask="url(#cmask)"/>
  <g id="mobs">
   <g transform="translate(300,567)"><g class="a-slA" style="animation: t-slA 61.0s linear -28.66s infinite"><g class="breathe" style="animation-delay:0s"><use href="#sp-slime"/></g></g></g>
-  <g transform="translate(250,405)"><g class="a-slB" style="animation: t-slB 67.0s linear -28.87s infinite"><g class="breathe" style="animation-delay:-0.4s"><use href="#sp-slime"/></g></g></g>
+  <g transform="translate(250,405)"><g class="a-slB" style="animation-name: t-slB"><g class="breathe" style="animation-delay:-0.4s"><use href="#sp-slime"/></g></g></g>
   <g transform="translate(640,567)"><g class="a-slC" style="animation: t-slC 71.0s linear -32.93s infinite"><g class="breathe" style="animation-delay:-0.9s"><use href="#sp-slime"/></g></g></g>
   <g transform="translate(470,567)"><g class="a-slD" style="animation: t-slD 73.0s linear -37.92s infinite"><g class="breathe" style="animation-delay:-0.2s"><use href="#sp-slime"/></g></g></g>
-  <g transform="translate(540,275)"><g class="a-om" style="animation: t-om 13.9s linear -6.42s infinite"><use href="#sp-om"/></g></g>
+  <g transform="translate(540,275)"><g class="a-om" style="animation-name: t-om"><use href="#sp-om"/></g></g>
   <g transform="translate(610,405)"><g class="a-om2" style="animation: t-om2 12.1s linear -10.54s infinite"><use href="#sp-om"/></g></g>
   <g transform="translate(840,405)"><g class="a-gm" style="animation: t-gm 16.7s linear -5.11s infinite"><use href="#sp-gm"/></g></g>
   <g transform="translate(440,146)"><g class="a-sh" style="animation: t-sh 11.3s linear -5.41s infinite"><use href="#sp-sh"/></g></g>
@@ -1594,7 +1323,7 @@
   <g transform="translate(1040,567)"><g class="a-rsn" style="animation: t-rsn 16.1s cubic-bezier(.3,0,.7,1) -32.03s infinite"><use href="#sp-rsn"/></g></g>
   <g transform="translate(170,567)"><use href="#sp-stump"/></g>
  </g>
- <g transform="translate(85,571)">
+ <g class="portal" transform="translate(85,571)">
  <defs>
   <linearGradient id="colv85" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#dff4ff" stop-opacity="0.95"/><stop offset="0.28" stop-color="#8ed4ff" stop-opacity="0.72"/><stop offset="0.55" stop-color="#a8e0ff" stop-opacity="0.34"/><stop offset="0.78" stop-color="#ffffff" stop-opacity="0.10"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
   <linearGradient id="corev85" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0.97"/><stop offset="0.35" stop-color="#f4fcff" stop-opacity="0.62"/><stop offset="0.7" stop-color="#ffffff" stop-opacity="0.14"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
@@ -1621,7 +1350,7 @@
   <g transform="translate(-26,-11)"><g class="pf-mr" style="animation-delay:-4.0s"><g class="pf-ms" style="animation-delay:-1.2s"><path class="pf-mt" style="animation-delay:-0.5s" d="M 0 -4.0 L 1.1 -1.1 L 4.0 0 L 1.1 1.1 L 0 4.0 L -1.1 1.1 L -4.0 0 L -1.1 -1.1 Z"/></g></g></g>
  </g>
 </g>
-<g transform="translate(1138,571)">
+<g class="portal" transform="translate(1138,571)">
  <defs>
   <linearGradient id="colv1138" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#dff4ff" stop-opacity="0.95"/><stop offset="0.28" stop-color="#8ed4ff" stop-opacity="0.72"/><stop offset="0.55" stop-color="#a8e0ff" stop-opacity="0.34"/><stop offset="0.78" stop-color="#ffffff" stop-opacity="0.10"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
   <linearGradient id="corev1138" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0.97"/><stop offset="0.35" stop-color="#f4fcff" stop-opacity="0.62"/><stop offset="0.7" stop-color="#ffffff" stop-opacity="0.14"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
