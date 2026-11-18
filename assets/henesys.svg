@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 676" role="img" aria-label="Henesys Hunting Ground I">
  <title>Henesys Hunting Ground I</title>
+ <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:rights>MapleStory artwork © Nexon. Unofficial fan animation.</dc:rights>
+  <dc:source>https://www.youtube.com/@MapleStory</dc:source>
+ </metadata>
 <style>
 /* Platform travel, facing, and drawn poses are separate; only travel interpolates. */
 .walker { --route: walk-track; --action: walk-action; }
@@ -97,14 +101,17 @@
   4%, 14.5%, 23%, 49.5%, 64.5%, 74.5% { transform: translateY(calc(-1 * var(--height))); animation-timing-function: cubic-bezier(.333333, 0, .666667, .333333); }
 }
 
-.portal { opacity: .38; }
+/* Keep the entrance bright without turning up the haze and sparks. */
+.portal { opacity: .76; }
+.pf-haze { opacity: .66; }
+.pf-sparks { opacity: .52; }
 @keyframes pf-glow { 0%,100% { opacity: .87; } 50% { opacity: 1; } }
 @keyframes pf-sh { 0%,100% { opacity: .18; } 50% { opacity: .45; } }
 @keyframes pf-mr { 0% { transform: translateY(-6px); opacity: 0; } 10% { opacity: 1; } 80% { opacity: .55; } 100% { transform: translateY(-104px); opacity: 0; } }
 @keyframes pf-ms { 0%,100% { transform: translateX(-3px); } 50% { transform: translateX(3px); } }
 @keyframes pf-mt { 0%,100% { transform: scale(0.7); opacity: 0.65; } 50% { transform: scale(1.15); opacity: 1; } }
 .pf-col { animation: pf-glow 2.2s ease-in-out infinite; }
-.pf-sheen { animation: pf-sh 3.1s ease-in-out infinite; }
+.pf-sheen { opacity: .24; animation: pf-sh 3.1s ease-in-out infinite; }
 .pf-mr { animation: pf-mr 4.6s ease-out infinite; }
 .pf-ms { animation: pf-ms 1.3s ease-in-out infinite; }
 .pf-mt { animation: pf-mt 0.8s ease-in-out infinite; }
@@ -194,13 +201,13 @@
   <filter id="pwisp85" x="-30%" y="-10%" width="160%" height="120%"><feTurbulence type="fractalNoise" baseFrequency="0.012 0.05" numOctaves="2" seed="85" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6" xChannelSelector="R" yChannelSelector="G"/><feGaussianBlur stdDeviation="1"/></filter>
  </defs>
  <g class="pf-col" style="animation-delay:-0.0s">
-  <path d="M -33 0 C -36 -60 -29 -104 -15 -130 C -10 -138 -2 -138 3 -130 C 17 -104 24 -60 21 0 Z" fill="url(#colv85)" filter="url(#psoft85)"/>
+  <path class="pf-haze" d="M -33 0 C -36 -60 -29 -104 -15 -130 C -10 -138 -2 -138 3 -130 C 17 -104 24 -60 21 0 Z" fill="url(#colv85)" filter="url(#psoft85)"/>
   <path d="M -16 -1 C -18 -58 -13 -100 -5 -117 C -2 -123 4 -123 7 -117 C 15 -100 20 -58 18 -1 Z" fill="url(#corev85)" filter="url(#pwisp85)"/>
   <path class="pf-sheen" style="animation-delay:-0.0s" d="M -7 -6 C -8 -58 -7 -95 -1 -112 L 3 -112 C 9 -95 10 -58 9 -6 Z" fill="#ffffff" filter="url(#psoft285)"/>
  </g>
  <ellipse cx="0" cy="0" rx="34" ry="9" fill="url(#baseg85)"/>
  <ellipse cx="0" cy="0" rx="20" ry="4.5" fill="#ffffff" filter="url(#psoft285)"/>
- <g fill="#ffffff">
+ <g class="pf-sparks" fill="#ffffff">
   <g transform="translate(-22,-6)"><g class="pf-mr" style="animation-delay:-0.0s"><g class="pf-ms" style="animation-delay:-0.2s"><path class="pf-mt" style="animation-delay:-0.05s" d="M 0 -5.0 L 1.4 -1.4 L 5.0 0 L 1.4 1.4 L 0 5.0 L -1.4 1.4 L -5.0 0 L -1.4 -1.4 Z"/></g></g></g>
   <g transform="translate(14,-4)"><g class="pf-mr" style="animation-delay:-0.6s"><g class="pf-ms" style="animation-delay:-0.8s"><path class="pf-mt" style="animation-delay:-0.3s" d="M 0 -4.4 L 1.2 -1.2 L 4.4 0 L 1.2 1.2 L 0 4.4 L -1.2 1.2 L -4.4 0 L -1.2 -1.2 Z"/></g></g></g>
   <g transform="translate(-8,-12)"><g class="pf-mr" style="animation-delay:-1.15s"><g class="pf-ms" style="animation-delay:-0.5s"><path class="pf-mt" style="animation-delay:-0.55s" d="M 0 -5.6 L 1.6 -1.6 L 5.6 0 L 1.6 1.6 L 0 5.6 L -1.6 1.6 L -5.6 0 L -1.6 -1.6 Z"/></g></g></g>
@@ -221,13 +228,13 @@
   <filter id="pwisp1138" x="-30%" y="-10%" width="160%" height="120%"><feTurbulence type="fractalNoise" baseFrequency="0.012 0.05" numOctaves="2" seed="1138" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6" xChannelSelector="R" yChannelSelector="G"/><feGaussianBlur stdDeviation="1"/></filter>
  </defs>
  <g class="pf-col" style="animation-delay:-1.1s">
-  <path d="M -33 0 C -36 -60 -29 -104 -15 -130 C -10 -138 -2 -138 3 -130 C 17 -104 24 -60 21 0 Z" fill="url(#colv1138)" filter="url(#psoft1138)"/>
+  <path class="pf-haze" d="M -33 0 C -36 -60 -29 -104 -15 -130 C -10 -138 -2 -138 3 -130 C 17 -104 24 -60 21 0 Z" fill="url(#colv1138)" filter="url(#psoft1138)"/>
   <path d="M -16 -1 C -18 -58 -13 -100 -5 -117 C -2 -123 4 -123 7 -117 C 15 -100 20 -58 18 -1 Z" fill="url(#corev1138)" filter="url(#pwisp1138)"/>
   <path class="pf-sheen" style="animation-delay:-0.7s" d="M -7 -6 C -8 -58 -7 -95 -1 -112 L 3 -112 C 9 -95 10 -58 9 -6 Z" fill="#ffffff" filter="url(#psoft21138)"/>
  </g>
  <ellipse cx="0" cy="0" rx="34" ry="9" fill="url(#baseg1138)"/>
  <ellipse cx="0" cy="0" rx="20" ry="4.5" fill="#ffffff" filter="url(#psoft21138)"/>
- <g fill="#ffffff">
+ <g class="pf-sparks" fill="#ffffff">
   <g transform="translate(-22,-6)"><g class="pf-mr" style="animation-delay:-0.33s"><g class="pf-ms" style="animation-delay:-0.75s"><path class="pf-mt" style="animation-delay:-0.4s" d="M 0 -5.0 L 1.4 -1.4 L 5.0 0 L 1.4 1.4 L 0 5.0 L -1.4 1.4 L -5.0 0 L -1.4 -1.4 Z"/></g></g></g>
   <g transform="translate(14,-4)"><g class="pf-mr" style="animation-delay:-0.9s"><g class="pf-ms" style="animation-delay:-0.35s"><path class="pf-mt" style="animation-delay:-0.1s" d="M 0 -4.4 L 1.2 -1.2 L 4.4 0 L 1.2 1.2 L 0 4.4 L -1.2 1.2 L -4.4 0 L -1.2 -1.2 Z"/></g></g></g>
   <g transform="translate(-8,-12)"><g class="pf-mr" style="animation-delay:-1.5s"><g class="pf-ms" style="animation-delay:-1.05s"><path class="pf-mt" style="animation-delay:-0.6s" d="M 0 -5.6 L 1.6 -1.6 L 5.6 0 L 1.6 1.6 L 0 5.6 L -1.6 1.6 L -5.6 0 L -1.6 -1.6 Z"/></g></g></g>
